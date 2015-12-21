@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Instructions">
+        <item name="android:textSize">@dimen/instructions_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/instructionsBackground</item>
+    </style>
+
+    <style name="Controls">
+        <item name="android:background">@color/controlsBackground</item>
+    </style>
+
+    <style name="WelcomeTextView">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/welcome_text</item>
+        <item name="android:background">@color/welcomeBackground</item>
+        <item name="android:textColor">@color/welcomeText</item>
+    </style>
+
+</resources>
