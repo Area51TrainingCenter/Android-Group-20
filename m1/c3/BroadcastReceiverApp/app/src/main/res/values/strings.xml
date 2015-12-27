@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Broadcast Receiver App</string>
+
+    <string name="airplane_mode_on">Cambió el estado del modo avión a encendido.</string>
+    <string name="airplane_mode_off">Cambió el estado del modo avión a apagado.</string>
+    <string name="wallpaper_changed">Cambió el fondo de pantalla.</string>
+    <string name="location_provader_state_changed">Cambió el estado de un proveedor de localización.</string>
+    <string name="action_new_visitor">¡Hola %s!</string>
+    <string name="na">N/A</string>
+    <string name="no_action">El Intent no tiene atributo Action.</string>
+    <string name="visitor_name">Nombre del visitante.</string>
+    <string name="launch_explicit_intent">Lanzar Intent explícito</string>
+    <string name="launch_implicit_intent">Lanzar Intent implícito</string>
+</resources>

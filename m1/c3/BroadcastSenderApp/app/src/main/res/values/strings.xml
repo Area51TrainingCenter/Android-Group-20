@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Broadcast Sender App</string>
+
+    <string name="instructions">Hola, ingresa tu nombre</string>
+    <string name="hint_name">Nombre</string>
+    <string name="broadcast_name">Difundir nombre</string>
+</resources>
