@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Handler Test</string>
+
+    <string name="execute_task">Ejecutar tarea</string>
+    <string name="task_progress_title">Un momento&#8230;</string>
+    <string name="task_progress_message">Ejecutando tarea larga&#8230;</string>
+</resources>
