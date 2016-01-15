@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador de tiempo</string>
+
+    <string name="start_counter">Iniciar contador</string>
+    <string name="stop_counter">Detener contador</string>
+    <string name="handler_tick_count">Iteración: %s</string>
+    <string name="elapsed_seconds">Segundos transcurridos: %s</string>
+</resources>

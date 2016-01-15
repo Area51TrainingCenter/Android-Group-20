@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Repetitive Task</string>
+
+    <string name="start_counter">Iniciar contador</string>
+    <string name="stop_counter">Detener contador</string>
+    <string name="count">Iteración: %s</string>
+</resources>
