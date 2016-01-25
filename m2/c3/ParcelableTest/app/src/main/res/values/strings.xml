@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcelable Test</string>
+
+    <string name="show_person">Mostrar persona</string>
+</resources>
