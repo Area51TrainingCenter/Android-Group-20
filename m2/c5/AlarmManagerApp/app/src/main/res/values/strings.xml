@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alarm Manager App</string>
+
+    <string name="alarm_fired">¡¡¡La alarma se ha disparado!!!</string>
+    <string name="instructions">Ingresa el tiempo en segundos para que se dispare la alarma.</string>
+    <string name="hint_time_in_seconds">Tiempo en segundos</string>
+    <string name="register_alarm">Registrar Alarma</string>
+    <string name="integer_numbers_only">¡Debes ingresar sólo números enteros!</string>
+    <string name="no_ringtone">No tienes un tono de alarma establecido :(</string>
+</resources>
